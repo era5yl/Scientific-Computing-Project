@@ -1,5 +1,5 @@
 # Scientific-Computing-Project
-# 🎵 Mood-Based Music Recommendation System  
+#  Mood-Based Music Recommendation System  
 ### Using PCA + Gaussian Mixture Models (GMM)
 
 This project builds a **2D emotional space** for Spotify songs using  
